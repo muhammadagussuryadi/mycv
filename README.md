@@ -1,2 +1,2 @@
 # MY CV
-<a href='agus-cv.netlify.com'>please visit my cv</a>
+<a href='https://agus-cv.netlify.app/' target='_balnk'>please visit my cv</a>
